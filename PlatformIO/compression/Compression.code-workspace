@@ -1,0 +1,13 @@
+{
+	"folders": [
+        {
+            "name": "MiniZTest",
+            "path": "MiniZTest"
+        },
+        {
+            "name": "zlibtest",
+            "path": "zlibtest"
+        }
+    ],
+    "settings": {}
+}

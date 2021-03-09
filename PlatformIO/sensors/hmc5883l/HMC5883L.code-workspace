@@ -1,0 +1,28 @@
+{
+	"folders": [
+        {
+            "path": "MagnetometerTest"
+        },
+        {
+            "name": "MagnetometerTest2",
+            "path": "MagnetometerTest2"
+        },
+        {
+            "name": "I2CScanner",
+            "path": "..\\I2CScanner"
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "functional": "cpp",
+            "new": "cpp",
+            "streambuf": "cpp",
+            "typeinfo": "cpp",
+            "*.tcc": "cpp",
+            "fstream": "cpp",
+            "istream": "cpp",
+            "ostream": "cpp",
+            "sstream": "cpp"
+        }
+    }
+}
