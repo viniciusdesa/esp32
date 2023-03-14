@@ -1,7 +1,15 @@
 {
 	"folders": [
         {
-            "path": "."
+            "path": "WiFiClientEvents"
+        },
+        {
+            "name": "WiFiScan",
+            "path": "WiFiScan"
+        },
+        {
+            "name": "WiFiAP",
+            "path": "WiFiAP"
         }
     ],
     "settings": {}

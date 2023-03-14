@@ -36,8 +36,8 @@
 #include <Arduino.h>
 #include <WiFi.h>
 
-const char *ssid = "VidoMobi";
-const char *password = "87654321";
+const char *ssid = "VIDO_LA";
+const char *password = "vido31145353";
 
 void WiFiEvent(WiFiEvent_t event)
 {
@@ -128,6 +128,7 @@ void setup()
 {
     Serial.begin(115200);
 
+
     // delete old config
     WiFi.disconnect(true);
 
@@ -137,6 +138,7 @@ void setup()
     WiFi.onEvent(WiFiEvent);
 
     Serial.print("Initializing WiFi...");
+    
     WiFi.begin(ssid, password);
 
     Serial.println();
